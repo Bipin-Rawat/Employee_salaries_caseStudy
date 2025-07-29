@@ -33,7 +33,6 @@ The dataset (`Salaries.csv`) includes:
 ## 🛠️ Tools Used:
 - Python (Jupyter Notebook)
 - Pandas for data wrangling
-- Seaborn & Matplotlib for plotting
 
 ## 💡 Why this project?
 This analysis helped me practice real-life data cleaning, query writing, and exploratory data analysis (EDA). It shows how even a simple dataset can reveal powerful insights when approached with the right questions.
